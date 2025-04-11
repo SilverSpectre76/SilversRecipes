@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#b#",
+    "#s#",
+    "#$#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "$": {
+      "item": "netherite_ingot"
+    },
+    "s": {
+      "item": "myths_and_legends:rusted_shield"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:rusted_shield"
+  }
+}

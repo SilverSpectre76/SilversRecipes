@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "fff",
+    "lfl",
+    " f "
+  ],
+  "key": {
+    "f": {
+      "item": "cobblemon:fire_stone"
+    },
+    "l": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:hearthflame_mask"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p/p",
+    "psp",
+    "p/p"
+  ],
+  "key": {
+    "s": {
+      "item": "myths_and_legends:scroll_of_darkness"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "p": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:scroll_of_darkness"
+  }
+}
