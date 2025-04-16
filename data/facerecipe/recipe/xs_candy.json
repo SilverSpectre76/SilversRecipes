@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:heal_powder"
+    },
+    {
+      "item": "cobblemon:medicinal_brew"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "id": "cobblemon:exp_candy_xs",
+    "count": 2
+  }
+}

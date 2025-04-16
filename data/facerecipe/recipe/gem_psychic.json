@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#c#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "c": {
+      "item": "cobblemon:twisted_spoon"
+    }
+  },
+  "result": {
+    "id": "cobblemon:psychic_gem"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "lol",
+    "lll"
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:blue_dye"
+    },
+    "o": {
+      "item": "minecraft:orange_dye"
+    },
+    "l": {
+      "item": "cobblemon:leaf_stone"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:teal_mask"
+  }
+}

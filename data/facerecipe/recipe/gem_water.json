@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#c#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "c": {
+      "item": "cobblemon:mystic_water"
+    }
+  },
+  "result": {
+    "id": "cobblemon:water_gem"
+  }
+}

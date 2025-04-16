@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "gbg",
+    " w "
+  ],
+  "key": {
+    "w": {
+      "item": "cobblemon:water_stone"
+    },
+    "g": {
+      "item": "minecraft:ghast_tear"
+    },
+    "b": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:wellspring_mask"
+  }
+}
