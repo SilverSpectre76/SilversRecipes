@@ -17,7 +17,7 @@
     {
       "type": "fluid_stack",
       "amount": 250,
-      "fluid_tag": "minecraft:water"
+      "fluid": "minecraft:water"
     }
   ],
   "results": [
