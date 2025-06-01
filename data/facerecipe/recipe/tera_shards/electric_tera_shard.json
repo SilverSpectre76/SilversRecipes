@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:electric_gem"
+    }
+  ],
+  "result": {
+    "id": "mega_showdown:electric_tera_shard",
+    "count": 5
+  }
+}

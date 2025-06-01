@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:water_gem"
+    }
+  ],
+  "result": {
+    "id": "mega_showdown:water_tera_shard",
+    "count": 5
+  }
+}

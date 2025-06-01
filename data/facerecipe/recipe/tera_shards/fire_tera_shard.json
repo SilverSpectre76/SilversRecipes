@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:fire_gem"
+    }
+  ],
+  "result": {
+    "id": "mega_showdown:fire_tera_shard",
+    "count": 5
+  }
+}

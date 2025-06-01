@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:rock_gem"
+    }
+  ],
+  "result": {
+    "id": "mega_showdown:rock_tera_shard",
+    "count": 5
+  }
+}

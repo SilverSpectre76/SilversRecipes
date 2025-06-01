@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#c#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:dark_gem"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:dread_plate"
+  }
+}

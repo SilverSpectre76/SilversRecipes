@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#c#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "cobblemon:fairy_gem"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "mega_showdown:pixie_plate"
+  }
+}

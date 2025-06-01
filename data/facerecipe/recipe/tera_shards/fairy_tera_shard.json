@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblemon:fairy_gem"
+    }
+  ],
+  "result": {
+    "id": "mega_showdown:fairy_tera_shard",
+    "count": 5
+  }
+}
